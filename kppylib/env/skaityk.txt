@@ -1,0 +1,12 @@
+﻿mp Python bibliotekėlė
+
+kppylib_term
+
+Nuo projekto architektūros priklausantys daiktai
+Čia – terminalinių aplikacijų bendri dalykai
+
+Montuojama į projekto katalogo tėvo pakatalogį
+../kppylib/env
+hg clone E:\kp\src\kppylib_con env
+
+Naudojama įrankiuose distcmp ir toolcmp.

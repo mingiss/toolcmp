@@ -1,0 +1,11 @@
+﻿mp Python bibliotekėlė
+
+kppylib
+
+Bendri dalykai
+
+Aplankas montuojamas į projekto katalogo tėvo pakatalogį
+../kppylib
+hg clone E:\kp\src\kppylib
+
+Naudojama įrankiuose distcmp ir toolcmp.
